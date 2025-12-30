@@ -11,24 +11,30 @@ type Teacher = {
 
 const teachers: Teacher[] = [
   {
+    job: "Opr",
+    name: "Harun",
+    year: 2006,
+    id: "1",
+  },
+  {
     job: "Dosen",
     name: "Dhhika",
     year: 1990,
-    id: "1",
+    id: "2",
   },
 
   {
     name: "Theo",
     job: "conten creator",
     year: 2000,
-    id: "2",
+    id: "3",
   },
 
   {
     name: "Eko",
     job: "tech lead",
     year: 1985,
-    id: "3",
+    id: "4",
   },
 ];
 
